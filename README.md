@@ -1,6 +1,6 @@
-<h2 align="center">Hello, I'm Jure Rhoanne Batohanon</h2>
+<h2 align="center">Hello, I'm Jure Rhoanne!</h2>
 
-<p align="center">Computer Science student who turns ideas into solutions for real-world problems. Lifelong learner.</p>
+<p align="center">I’m a CS student growing into a full-stack developer, working across design, front end, and back end. Right now I’m sharpening my skills through school and personal projects, and I’m always open to new challenges that push me to learn more.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jure-rhoanne-batohanon-98a4a7307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
