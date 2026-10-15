@@ -54,7 +54,7 @@
 |---|---|---|
 | [AAIMS](https://github.com/REIAHNEVIL/AAIMS) | Real-time exam proctoring from a standard webcam that flags head turns, face absence, and talking, processing everything locally without recording video. | Python, OpenCV, MediaPipe, scikit-learn |
 | [SALITAyo](https://github.com/REIAHNEVIL/SALITAyo) | Bilingual (English/Filipino) reading and writing assistant for dyslexic learners. I led the writing assistant: spelling correction with a fine-tuned T5 model and error-type classification. | Django REST Framework, React, T5, scikit-learn |
-| [Autonomous Quadruped] | Vision and navigation for a 12-servo quadruped robot, built with students from Taiwan and Japan for iPBL 2026. Follows colored markers and avoids obstacles. | Python, OpenCV, Raspberry Pi, Arduino |
+| Autonomous Quadruped | Vision and navigation for a 12-servo quadruped robot, built with students from Taiwan and Japan for iPBL 2026. Follows colored markers and avoids obstacles. | Python, OpenCV, Raspberry Pi, Arduino |
 | [JoseniCare](https://github.com/REIAHNEVIL/JoseniCare) | Campus health and emergency response system linking students, the clinic, and campus security. I designed the Figma screens and built the staff and doctor modules for patient records, medical inventory, and health surveys. | PHP, MySQL, Figma |
 
 Currently working on my thesis, **MAVIA**: an audio-tactile adaptive learning system for blind and visually impaired learners.
