@@ -21,21 +21,28 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 **Frameworks & Libraries**
 <br/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-**Databases & Servers**
+**AI / ML &amp; Computer Vision**
+<br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white"/>
+
+**Databases, Tools &amp; Design**
 <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
-
-**Design**
-<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 
@@ -43,14 +50,16 @@
 
 ### Featured projects
 
-🚧 Projects are being polished and will be published here soon.
-
-<!-- When a repo is public, delete the line above and fill in this table:
 | Project | Description | Tech |
 |---|---|---|
-| [project-name](https://github.com/REIAHNEVIL/project-name) | One sentence on what it does and who it's for. [Live demo](https://link) | React, Django |
-| [project-name](https://github.com/REIAHNEVIL/project-name) | One sentence on what it does and who it's for. | Angular, MySQL |
--->
+| [AAIMS](https://github.com/REIAHNEVIL/AAIMS) | Real-time exam proctoring from a standard webcam that flags head turns, face absence, and talking, processing everything locally without recording video. | Python, OpenCV, MediaPipe, scikit-learn |
+| [SALITAyo](https://github.com/REIAHNEVIL/SALITAyo) | Bilingual (English/Filipino) reading and writing assistant for dyslexic learners. I led the writing assistant: spelling correction with a fine-tuned T5 model and error-type classification. | Django REST Framework, React, T5, scikit-learn |
+| [Autonomous Quadruped] | Vision and navigation for a 12-servo quadruped robot, built with students from Taiwan and Japan for iPBL 2026. Follows colored markers and avoids obstacles. | Python, OpenCV, Raspberry Pi, Arduino |
+| [JoseniCare](https://github.com/REIAHNEVIL/JoseniCare) | Campus health and emergency response system linking students, the clinic, and campus security. I designed the Figma screens and built the staff and doctor modules for patient records, medical inventory, and health surveys. | PHP, MySQL, Figma |
+
+Currently working on my thesis, **MAVIA**: an audio-tactile adaptive learning system for blind and visually impaired learners.
+
+I've also built production web systems for clients, including a lab equipment booking system (66 users, 780+ bookings) and a conference registration platform. Their source code is private.
 
 ---
 
