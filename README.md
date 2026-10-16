@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/jure-rhoanne-batohanon-98a4a7307/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:batohanonjurerhoanne@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://REIAHNEVIL.github.io/"><img src="https://img.shields.io/badge/Portfolio-222222?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-  -->
+
 </p>
 
 ---
