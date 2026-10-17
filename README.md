@@ -25,8 +25,8 @@
 
 **Frameworks & Libraries**
 <br/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
@@ -47,18 +47,11 @@
 
 ---
 
-### Featured projects
+### What I'm up to
 
-| Project | Description | Tech |
-|---|---|---|
-| [AAIMS](https://github.com/REIAHNEVIL/AAIMS) | Real-time exam proctoring from a standard webcam that flags head turns, face absence, and talking, processing everything locally without recording video. | Python, OpenCV, MediaPipe, scikit-learn |
-| [SALITAyo](https://github.com/REIAHNEVIL/SALITAyo) | Bilingual (English/Filipino) reading and writing assistant for dyslexic learners. I led the writing assistant: spelling correction with a fine-tuned T5 model and error-type classification. | Django REST Framework, React, T5, scikit-learn |
-| Autonomous Quadruped | Vision and navigation for a 12-servo quadruped robot, built with students from Taiwan and Japan for iPBL 2026. Follows colored markers and avoids obstacles. | Python, OpenCV, Raspberry Pi, Arduino |
-| [JoseniCare](https://github.com/REIAHNEVIL/JoseniCare) | Campus health and emergency response system linking students, the clinic, and campus security. I designed the Figma screens and built the staff and doctor modules for patient records, medical inventory, and health surveys. | PHP, MySQL, Figma |
-
-Currently working on my thesis, **MAVIA**: an audio-tactile adaptive learning system for blind and visually impaired learners.
-
-I've also built production web systems for clients, including a lab equipment booking system (66 users, 780+ bookings) and a conference registration platform. Their source code is private.
+- Working on my thesis, **MAVIA**, an audio-tactile adaptive learning system for blind and visually impaired learners
+- Built web systems for real clients, including a lab equipment booking system and a website for an international conference (private repos)
+- See my projects in AI, computer vision, and web development on my [portfolio](https://REIAHNEVIL.github.io/)
 
 ---
 
